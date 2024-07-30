@@ -1,4 +1,29 @@
-.col-6{
-    margin-bottom: 5px;
-    margin-top: 5px;
+.carta{
+    background-color: rgb(53, 59, 77);
+    border-radius: 20px;
+    margin: 50px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    box-shadow: 10px 10px 5px rgb(53, 53, 53); 
+    background: rgba(56, 58, 70, 0.48);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(12.8px);
+    -webkit-backdrop-filter: blur(12.8px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
 }
+
+body{
+    background-image: url(https://github.com/AngelJumbo/gruvbox-wallpapers/blob/main/wallpapers/minimalistic/gruv-abstract-maze.png?raw=true);
+    background-size: cover;
+}
+th{
+    font-size: 10px;
+}
+td,tr{
+    margin: 10px;
+    background: rgba(96, 98, 110, 0.48);
+    backdrop-filter: blur(12.8px);
+    -webkit-backdrop-filter: blur(12.8px);
+}
+
